@@ -1,0 +1,4 @@
+## Package jar
+    $ sbt assembly
+
+##
