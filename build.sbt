@@ -2,6 +2,6 @@ name := "spark-scala-idea"
 
 version := "1.0"
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.10.4"
 
-libraryDependencies += "org.apache.spark" %% "spark-core_2.11" % "2.1.0"
+libraryDependencies += "org.apache.spark" %% "spark-core" % "1.2.0"

@@ -2,3 +2,6 @@
 target/
 .idea/
 project/
+metastore_db/
+
+*.log
